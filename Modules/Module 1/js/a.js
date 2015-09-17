@@ -1,3 +1,3 @@
-console.log('Test');
+console.log('First JS file');
 var d = 10;
-console.log(d);
+console.log('The Value of variable d is ' + d);
